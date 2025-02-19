@@ -1,4 +1,4 @@
-module v5sdk_go
+module github.com/zfb7901/v5sdk_go
 
 go 1.15
 
